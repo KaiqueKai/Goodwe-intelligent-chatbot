@@ -88,7 +88,7 @@ Para reduzir o consumo energético de uma estação de carregamento, é possíve
 
 ## Equipe
 
-- André Debiazzi — RM 569068
+- André Debiazzi — RM 569062
 - Kaique da Silva — RM 572718
 - Vinicius Cristal — RM 572049
 - Lucas Barros - RM 571528
